@@ -1,0 +1,1524 @@
+Uri: https://celoff.com/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/carrito/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\carrito\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/comments/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/compara-productos/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\compara-productos\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/contactanos/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\contactanos\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/lista-de-deseos/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\lista-de-deseos\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/mi-cuenta/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\mi-cuenta\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/mi-cuenta/?action=register
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\mi-cuenta\index-1.htm
+Content Type: text/html
+
+Uri: https://celoff.com/mi-cuenta/lost-password/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\mi-cuenta\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-11-64gb/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-11-64gb\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-11-64gb/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-11-64gb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-11-pro/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-11-pro\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-11-pro/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-11-pro\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-12-mini/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-12-mini\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-12-mini/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-12-mini\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-13-mini/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-13-mini\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-13-mini/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-13-mini\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-13-pro-max/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-13-pro-max\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-13-pro-max/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-13-pro-max\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-13-pro/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-13-pro\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-13-pro/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-13-pro\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-14-2/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-14-2\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-14-2/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-14-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-14-pro-max/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-14-pro-max\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-14-pro-max/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-14-pro-max\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-14-pro/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-14-pro\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-14-pro/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-14-pro\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-15-pro-max-copia/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-15-pro-max-copia\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-15-pro-max-copia/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-15-pro-max-copia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-15-pro-max/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-15-pro-max\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-15-pro-max/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-15-pro-max\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-15-pro/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-15-pro\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-15-pro/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-15-pro\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-15/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-15\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-15/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-15\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-16-pro-128gb-2/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-16-pro-128gb-2\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-16-pro-128gb-2/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-16-pro-128gb-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone-16-pro/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-16-pro\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone-16-pro/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone-16-pro\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone12/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone12\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone12/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone12\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone12pro/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone12pro\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone12pro/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone12pro\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone12promax/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone12promax\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone12promax/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone12promax\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/producto/iphone13/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone13\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/producto/iphone13/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\producto\iphone13\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/sobre-nosotros/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\sobre-nosotros\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/tienda/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\tienda\index.htm
+Content Type: text/html
+
+Uri: https://celoff.com/tienda/feed/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\tienda\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://celoff.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\plugins\woocommerce\assets\fonts\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://celoff.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\plugins\woocommerce\assets\fonts\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://celoff.com/wp-content/themes/woodmart/fonts/woodmart-font-2-400.woff2?v=7.6.0
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\themes\woodmart\fonts\woodmart-font-2-400.woff2
+Content Type: font/woff2
+
+Uri: https://celoff.com/wp-content/themes/woodmart/inc/admin/assets/images/calend-d.svg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\themes\woodmart\inc\admin\assets\images\calend-d.svg
+Content Type: image/svg+xml
+
+Uri: https://celoff.com/wp-content/themes/woodmart/inc/admin/assets/images/calend-l.svg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\themes\woodmart\inc\admin\assets\images\calend-l.svg
+Content Type: image/svg+xml
+
+Uri: https://celoff.com/wp-content/uploads/2024/03/w-dots-white-1.svg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\03\w-dots-white-1.svg
+Content Type: image/svg+xml
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-1-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-1-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-1-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-1-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-1.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-1.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-3.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-3.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-4-150x150.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-4-150x150.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-4-300x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-4-300x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-4-39x38.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-4-39x38.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-4-50x50.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-4-50x50.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/1-4.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\1-4.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/10-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\10-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/10-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\10-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/10.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\10.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/11-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\11-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/11-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\11-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/11.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\11.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/14-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\14-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/14-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\14-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/14.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\14.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/16-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\16-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/16-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\16-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/16.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\16.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/18-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\18-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/18-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\18-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/18.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\18.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/19-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\19-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/19-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\19-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/19.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\19.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/2-3.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\2-3.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/2-4-150x150.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\2-4-150x150.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/2-4-300x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\2-4-300x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/2-4-39x38.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\2-4-39x38.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/2-4-50x50.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\2-4-50x50.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/2-4.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\2-4.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/20-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\20-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/20-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\20-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/20.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\20.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/21.svg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\21.svg
+Content Type: image/svg+xml
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/23-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\23-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/23-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\23-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/23.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\23.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/24-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\24-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/24-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\24-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/24.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\24.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/26-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\26-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/26-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\26-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/26.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\26.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/28-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\28-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/28-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\28-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/28.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\28.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-1-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-1-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-1-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-1-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-1.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-1.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-3.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-3.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-4-150x150.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-4-150x150.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-4-300x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-4-300x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-4-39x38.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-4-39x38.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-4-50x50.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-4-50x50.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3-4.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3-4.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/3.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\3.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/31-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\31-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/31-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\31-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/31.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\31.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/33-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\33-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/33-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\33-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/33.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\33.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/34-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\34-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/34-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\34-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/34.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\34.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/35-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\35-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/35-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\35-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/35.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\35.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/36-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\36-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/36-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\36-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/36.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\36.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/38-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\38-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/38-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\38-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/38.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\38.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/4-1-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\4-1-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/4-1-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\4-1-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/4-1.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\4-1.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/40-1-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\40-1-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/40-1-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\40-1-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/40-1.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\40-1.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/41-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\41-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/41-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\41-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/41.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\41.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/42-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\42-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/42-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\42-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/42.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\42.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/43-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\43-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/43-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\43-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/43.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\43.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/44-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\44-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/44-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\44-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/44.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\44.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/5-1-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\5-1-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/5-1-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\5-1-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/5-1.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\5-1.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/5-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\5-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/5-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\5-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/5.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\5.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/8-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\8-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/8-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\8-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/8.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\8.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/channels4_profile-128x128.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\channels4_profile-128x128.jpg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/channels4_profile-150x150.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\channels4_profile-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/channels4_profile-300x300.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\channels4_profile-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/channels4_profile-52x52.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\channels4_profile-52x52.jpg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/channels4_profile-600x600.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\channels4_profile-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/channels4_profile-768x768.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\channels4_profile-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/channels4_profile.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\channels4_profile.jpg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/cropped-O-9-180x180.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\cropped-O-9-180x180.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/cropped-O-9-192x192.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\cropped-O-9-192x192.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/cropped-O-9-32x32.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\cropped-O-9-32x32.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/Diseno-sin-titulo-1.svg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\Diseno-sin-titulo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/Diseno-sin-titulo-14-1-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\Diseno-sin-titulo-14-1-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/Diseno-sin-titulo-14-1-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\Diseno-sin-titulo-14-1-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/Diseno-sin-titulo-14-1.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\Diseno-sin-titulo-14-1.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/Diseno-sin-titulo-2.svg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\Diseno-sin-titulo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/Diseno-sin-titulo-5.svg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\Diseno-sin-titulo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-1-1152x1536.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-1-1152x1536.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-1-1200x1600.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-1-1200x1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-1-1320x1760.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-1-1320x1760.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-1-150x200.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-1-150x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-1-1536x2048.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-1-1536x2048.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-1-225x300.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-1-225x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-1-768x1024.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-1-768x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-1-scaled.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-1-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/edd3595f5aa6f790dad1dbef46666950-scaled.jpeg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\edd3595f5aa6f790dad1dbef46666950-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/images-1-1-140x140.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\images-1-1-140x140.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/images-1-1-150x150.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\images-1-1-150x150.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/images-1-1.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\images-1-1.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/images-1-128x128.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\images-1-128x128.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/images-1-150x150.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\images-1-150x150.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/images-1.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\images-1.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/IMG_7336-scaled.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\IMG_7336-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/tahuantinsuyo-150x290.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\tahuantinsuyo-150x290.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/10/tahuantinsuyo-155x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\tahuantinsuyo-155x300.png
+Content Type: image/png
+
+Uri: https://i.ibb.co/KcPK1HQ/Cajamarca-Per-1.jpg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\10\tahuantinsuyo.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/2-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\2-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/2-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\2-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/2.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\2.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/4-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\4-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/4-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\4-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/4.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\4.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/Diseno-sin-titulo-17-150x171.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\Diseno-sin-titulo-17-150x171.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/Diseno-sin-titulo-17-263x300.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\Diseno-sin-titulo-17-263x300.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/2024/11/Diseno-sin-titulo-17.png
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\2024\11\Diseno-sin-titulo-17.png
+Content Type: image/png
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-0ac5c85d8e407827988ad979d1eee91b.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-0ac5c85d8e407827988ad979d1eee91b.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1a7403d0d49812d8cfc32c27a245c555.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-1a7403d0d49812d8cfc32c27a245c555.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1d159f5fd88848d6473e654341edec8c.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-1d159f5fd88848d6473e654341edec8c.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-249f90d2572ffcf4312fa69ab8b4f4f2.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-249f90d2572ffcf4312fa69ab8b4f4f2.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-33c4522485fe72415a0a8a46cb948c1c.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-33c4522485fe72415a0a8a46cb948c1c.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-36255ec4c38a5bce847befc20010a8ba.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-36255ec4c38a5bce847befc20010a8ba.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-370f28b0fb4d21a74f05cc798837aaf6.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-370f28b0fb4d21a74f05cc798837aaf6.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-38d8cdbdea71419e1e5eff9b578903b6.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-38d8cdbdea71419e1e5eff9b578903b6.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-3bbe2861de902dc4c166cf1dde1db0cf.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-3bbe2861de902dc4c166cf1dde1db0cf.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-46640239c5b4fb667b6d2c7ee35271f2.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-46640239c5b4fb667b6d2c7ee35271f2.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-601f87ec9753112ba73c6244d105bb46.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-601f87ec9753112ba73c6244d105bb46.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-6ba47b1ab571f78e49487ac1f46a1c3a.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-6ba47b1ab571f78e49487ac1f46a1c3a.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-6fe68c732c0f6209ec237972d1fc1d08.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-6fe68c732c0f6209ec237972d1fc1d08.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-77090fa7df0130de99c72edcda8c3ccd.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-77090fa7df0130de99c72edcda8c3ccd.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-79b3eb9cba3451cc7fd716b708a68b89.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-79b3eb9cba3451cc7fd716b708a68b89.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-7f9b58630624e7bee7d0dfb956ad62da.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-7f9b58630624e7bee7d0dfb956ad62da.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-84c208f8a6da9ccbc7907815d6052b80.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-84c208f8a6da9ccbc7907815d6052b80.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-9712ec862eefb322d5a9b40812a7a13e.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-9712ec862eefb322d5a9b40812a7a13e.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-9b59a575fbba597fbbf9e1b6d48a12ce.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-9b59a575fbba597fbbf9e1b6d48a12ce.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-ab9cdb1b68fff262dff079ec595ae6ea.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-ab9cdb1b68fff262dff079ec595ae6ea.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-bc7a80ba74d50fcb6cb7d62ec0cd737e.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-bc7a80ba74d50fcb6cb7d62ec0cd737e.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-bf5a35112b780b37df1e01b56ade10da.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-bf5a35112b780b37df1e01b56ade10da.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-cb75076964f0879f83344df9c1881e52.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-cb75076964f0879f83344df9c1881e52.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-dfa48a3804625710e036628e79355ddb.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-dfa48a3804625710e036628e79355ddb.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-e39cacb24df9d6b492f6a2121fe268df.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-e39cacb24df9d6b492f6a2121fe268df.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-ea3196445231ff145bccd39d682d0431.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-ea3196445231ff145bccd39d682d0431.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-f23068da7a110b689c1eb216a841b08f.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-f23068da7a110b689c1eb216a841b08f.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-ff74aae7ae2b47f3145bf4fe7b97e1bc.css
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-css-ff74aae7ae2b47f3145bf4fe7b97e1bc.css
+Content Type: text/css
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-1e016efdcbfbe664933ba61a8d128006.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-1e016efdcbfbe664933ba61a8d128006.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-362b07d33b2cc6dfbb41326ff089d09d.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-362b07d33b2cc6dfbb41326ff089d09d.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-56d54fce0efc41ef14de23ad589424c3.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-56d54fce0efc41ef14de23ad589424c3.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-653d9f7f2830e3fc8b05d3b98a7fa7e9.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-653d9f7f2830e3fc8b05d3b98a7fa7e9.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-7e9ccf19961280c7112a9ff1313b9737.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-7e9ccf19961280c7112a9ff1313b9737.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-847882965ec6c1596b91556669d9d0be.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-847882965ec6c1596b91556669d9d0be.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-8cdd71ce722a3d4a1ddc17b6d93af0f0.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-8cdd71ce722a3d4a1ddc17b6d93af0f0.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-bbbb1b2678a006774fbc7e2bdb1bfe63.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-bbbb1b2678a006774fbc7e2bdb1bfe63.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-d19ec253aa62ddbb86243f34138e790d.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-d19ec253aa62ddbb86243f34138e790d.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-d985e1931101323583a8bb63b5a08172.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-d985e1931101323583a8bb63b5a08172.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-e8f1e4c077fda318da5a83212fde8313.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-e8f1e4c077fda318da5a83212fde8313.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-js-e94b91ba0ddf019a6d5c43e71f272830.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-content\uploads\siteground-optimizer-assets\siteground-optimizer-combined-js-e94b91ba0ddf019a6d5c43e71f272830.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://celoff.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://celoff.com/wp-json/
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fcarrito%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fcarrito%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fcompara-productos%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fcompara-productos%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fcontactanos%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fcontactanos%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Flista-de-deseos%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Flista-de-deseos%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fmi-cuenta%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fmi-cuenta%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-11-64gb%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-11-64gb%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-11-pro%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-11-pro%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-12-mini%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-12-mini%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-13-mini%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-13-mini%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-13-pro%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-13-pro%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-13-pro-max%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-13-pro-max%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-14-2%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-14-2%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-14-pro%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-14-pro%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-14-pro-max%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-14-pro-max%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-15%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-15%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-15-pro%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-15-pro%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-15-pro-max%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-15-pro-max%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-15-pro-max-copia%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-15-pro-max-copia%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-16-pro%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-16-pro%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-16-pro-128gb-2%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone-16-pro-128gb-2%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone12%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone12%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone12pro%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone12pro%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone12promax%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone12promax%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone13%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fproducto%2Fiphone13%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fsobre-nosotros%2F
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fceloff.com%2Fsobre-nosotros%2F&format=xml
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://celoff.com/wp-json/wp/v2/pages/11
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/pages/75
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\pages\75
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/pages/77
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\pages\77
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/pages/79
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\pages\79
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/pages/81
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\pages\81
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/pages/86
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\pages\86
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/pages/9
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/1286
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\1286
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/1292
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\1292
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/1320
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\1320
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/1376
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\1376
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/14
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\14
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/1411
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\1411
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/1421
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\1421
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/22
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\22
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/26
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\26
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/27
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\27
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/29
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\29
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/30
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\30
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/31
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\31
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/32
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\32
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/33
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\33
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/650
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\650
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/678
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\678
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/696
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\696
+Content Type: application/json
+
+Uri: https://celoff.com/wp-json/wp/v2/product/706
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\wp-json\wp\v2\product\706
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css?family=Geologica%3A400%2C600|Lexend+Deca%3A400%2C600%2C500|Lato%3A400%2C700&ver=7.6.0
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Albert+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.1
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.1
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Al77f1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Al77f1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX77f1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX77f1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX7rf1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX7rf1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9BJ77f1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9BJ77f1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9C-6Lf1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9C-6Lf1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX6Lf1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX6Lf1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX77f1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX77f1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6Lf1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6Lf1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6Lf1ZxE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6Lf1ZxE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZPPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZPPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApTPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApTPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZTPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZTPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5PPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5PPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5TPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5TPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZPPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZPPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5LPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5LPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5PPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5PPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/albertsans/v1/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJTPq4fy.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\albertsans\v1\i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJTPq4fy.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v1/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD8Hsc-QSBQ.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\geologica\v1\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqD8Hsc-QSBQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/geologica/v1/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDx_rc-QSBQ.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\geologica\v1\oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDx_rc-QSBQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v21/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48M1wqxnG.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\lexenddeca\v21\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48M1wqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v21/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4LspwqxnG.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\lexenddeca\v21\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4LspwqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lexenddeca/v21/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4ws1wqxnG.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\lexenddeca\v21\K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U4ws1wqxnG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://stats.wp.com/e-202447.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\e-202447.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/s-202447.js
+File Name: C:\Users\angel\OneDrive\Documentos\clone\celoff.com\s-202447.js
+Content Type: application/javascript
+
